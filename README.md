@@ -5,25 +5,29 @@
 <br>
 <hr>
 <li>
-  Add a Todo
+  <h3>Add a Todo</h3>
 </li>
 <img alt="Add TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot%202024-07-26%20201958.png" width="1500px" height="75px">
 <br>
 <hr>
 <li>
-  Edit a Todo
+  <h3>Edit a Todo</h3>
 </li>
 <img alt="Edit TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202601.png" width="200px" height="75px">
 <br>
 <hr>
 <li>
+  <h3>
   Delete a Todo
+    </h3>
 </li>
 <img alt="Delete TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202555.png" width="200px" height="75px">
 <br>
 <hr>
 <li>
+  <h3>
   localStorage used
+    </h3>
 </li>
 <br>
 <p>As a beginner friendly, I have not added so much complex things as well as i have not broken the code into multiple components as you can do it by your own.</p>
