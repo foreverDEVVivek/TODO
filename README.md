@@ -2,18 +2,26 @@
 <p>This is me Vivek, I am thrilled to talk about my project of basic todo, I have multiple functionaly as given below : </p>
 <h3> Let'see how it gonna to look..</h3>
 <img alt="Add TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 203854.png" width="1500px" height="500px">
+<br>
+<hr>
 <li>
   Add a Todo
 </li>
 <img alt="Add TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot%202024-07-26%20201958.png" width="1500px" height="75px">
+<br>
+<hr>
 <li>
   Edit a Todo
 </li>
 <img alt="Edit TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202601.png" width="200px" height="75px">
+<br>
+<hr>
 <li>
   Delete a Todo
 </li>
 <img alt="Delete TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202555.png" width="200px" height="75px">
+<br>
+<hr>
 <li>
   localStorage used
 </li>
