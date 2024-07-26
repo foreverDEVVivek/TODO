@@ -3,7 +3,7 @@
 <li>
   Add a Todo
 </li>
-![Img Add](/assets/Screenshot 2024-07-26 201958?raw=true "Optional Title")
+<img alt="Add TODO", src="assets/Screenshot 2024-07-26 201958.jpg">
 <li>
   Edit a Todo
 </li>
