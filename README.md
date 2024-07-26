@@ -3,7 +3,7 @@
 <li>
   Add a Todo
 </li>
-<img alt="Add TODO", src="assets/Screenshot 2024-07-26 201958.jpg">
+<img alt="Add TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot%202024-07-26%20201958.png">
 <li>
   Edit a Todo
 </li>
