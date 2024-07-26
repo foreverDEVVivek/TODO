@@ -1,5 +1,7 @@
 <h1>Hello Everyone,</h1>
 <p>This is me Vivek, I am thrilled to talk about my project of basic todo, I have multiple functionaly as given below : </p>
+<h3> Let'see how it gonna to look..</h3>
+<img alt="Add TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 203854.png" width="1500px" height="500px">
 <li>
   Add a Todo
 </li>
