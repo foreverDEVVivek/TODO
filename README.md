@@ -15,6 +15,6 @@
 <br>
 <p>As a beginner friendly, I have not added so much complex things as well as i have not broken the code into multiple components as you can do it by your own.</p>
 <p>And, Further changes can be needed so it is all on you.</p>
-<p>As in this the functional project is only your <b>App.jsx</b>, others are also functional but they all are on the way so stay tuned to have beginner friendly project.</p>
+<p>As in this the functional project is only your <span style:"font-bold:900; font-size:50px">App.jsx</span>, others are also functional but they all are on the way so stay tuned to have beginner friendly project.</p>
 
 <h1>Thank You Guys,</h1>
