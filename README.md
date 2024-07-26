@@ -11,6 +11,7 @@
 <li>
   Delete a Todo
 </li>
+<img alt="Edit TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202555" width="200px" height="75px">
 <li>
   localStorage used
 </li>
