@@ -1,0 +1,22 @@
+body{
+    background-color: #e1f5fe;
+}
+.container{
+   display: flex;
+   align-items: start;
+   justify-content: center;
+   gap: 5px;
+}
+.textField{
+ width: 500px;
+}
+.button{
+    height: 56px;
+    width: 120px;
+}
+.card{
+    display: grid;
+    padding: 2rem;
+    grid-template-columns: repeat(5,1fr);
+    gap: 20px;
+}
