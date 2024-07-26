@@ -7,6 +7,7 @@
 <li>
   Edit a Todo
 </li>
+<img alt="Edit TODO", src="https://github.com/foreverDEVVivek/TODO/blob/master/assets/res/Screenshot 2024-07-26 202601.png" width="1500px" height="75px">
 <li>
   Delete a Todo
 </li>
